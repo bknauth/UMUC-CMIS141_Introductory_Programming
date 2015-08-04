@@ -1,0 +1,102 @@
+Welcome to the Guitar Building Program.
+
+Your first guitar is an Ibinez.
+Your guitar is now tuned.
+You strum the following string: 
+A
+You begin to play your guitar.
+You rock out to Stairway To Heavan!
+You begin to play a rockin' solo on your guitar!
+The crowd cheers your solo!
+You finish playing your solo.
+You have stopped playing your guitar.
+
+Your second guitar is a Fender.
+Your guitar is now tuned.
+You strum the following string: 
+B
+You begin to play your guitar.
+You rock out to Free Bird!
+You have begun playing backup rythm on your guitar.
+You enjoy strumming along with the band.
+You stop playing backup rythm on your guitar.
+You have stopped playing your guitar.
+
+Your third guitar is a Gibson.
+Your guitar is now tuned.
+You strum the following string: 
+E
+You begin to play your guitar.
+You play a beautiful rendition of Enter Sandman.
+You provide the rythm and a solo for the song.
+You have begun playing backup rythm on your guitar.
+You stop playing backup rythm on your guitar.
+You begin to play a rockin' solo on your guitar!
+You finish playing your solo.
+You have stopped playing your guitar.
+
+Your fourth guitar is a classical from Italy.
+Your guitar is now tuned.
+You strum the following string: 
+D
+You begin to play your guitar.
+You play a song for your mom.
+You have begun playing backup rythm on your guitar.
+You stop playing backup rythm on your guitar.
+You have stopped playing your guitar.
+
+Your fifth guitar is a 12 string acoustic.
+Your guitar is now tuned.
+You strum the following string: 
+e
+You begin to play your guitar.
+You play a song for your dad.
+You have begun playing backup rythm on your guitar.
+You stop playing backup rythm on your guitar.
+You have stopped playing your guitar.
+
+Here is guitar 1.
+Your guitar is now tuned.
+You begin to play your guitar.
+You have begun playing backup rythm on your guitar.
+You stop playing backup rythm on your guitar.
+You begin to play a rockin' solo on your guitar!
+You finish playing your solo.
+You have stopped playing your guitar.
+
+Here is guitar 2.
+Your guitar is now tuned.
+You begin to play your guitar.
+You have begun playing backup rythm on your guitar.
+You stop playing backup rythm on your guitar.
+You begin to play a rockin' solo on your guitar!
+You finish playing your solo.
+You have stopped playing your guitar.
+
+Here is guitar 3.
+Your guitar is now tuned.
+You begin to play your guitar.
+You have begun playing backup rythm on your guitar.
+You stop playing backup rythm on your guitar.
+You begin to play a rockin' solo on your guitar!
+You finish playing your solo.
+You have stopped playing your guitar.
+
+Here is guitar 4.
+Your guitar is now tuned.
+You begin to play your guitar.
+You have begun playing backup rythm on your guitar.
+You stop playing backup rythm on your guitar.
+You begin to play a rockin' solo on your guitar!
+You finish playing your solo.
+You have stopped playing your guitar.
+
+Here is guitar 5.
+Your guitar is now tuned.
+You begin to play your guitar.
+You have begun playing backup rythm on your guitar.
+You stop playing backup rythm on your guitar.
+You begin to play a rockin' solo on your guitar!
+You finish playing your solo.
+You have stopped playing your guitar.
+
